@@ -1,0 +1,4 @@
+% This is a description about the credentials Thalia can issue.
+
+% ISSUE
+ * userID: Username on thalia.nu
