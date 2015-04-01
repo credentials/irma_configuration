@@ -5,7 +5,7 @@
 	<CredentialID>kpnSelfEnrolDocNr</CredentialID>
 
 	<VerifierID>MijnOverheid</VerifierID>
-	<VerificationID>selfEnrolDocNr</VerificationID>
+	<VerificationID>kpnSelfEnrolDocNr</VerificationID>
 
 	<Id>608</Id>
 
