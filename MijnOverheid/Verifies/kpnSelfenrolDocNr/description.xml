@@ -1,0 +1,19 @@
+<VerifySpecification>
+	<Name>KPN Self Enrol Tempory Document Number</Name>
+
+	<IssuerID>KPN</IssuerID>
+	<CredentialID>kpnSelfEnrolDocNr</CredentialID>
+
+	<VerifierID>MijnOverheid</VerifierID>
+	<VerificationID>selfEnrolDocNr</VerificationID>
+
+	<Id>608</Id>
+
+	<Description>
+	  Gets the document number attribute from the KPN temporary self-enrolment credential.
+	</Description>
+
+	<AttributeModes>
+	  <AttributeMode id="docNr" mode="revealed" />
+	</AttributeModes>
+</VerifySpecification>

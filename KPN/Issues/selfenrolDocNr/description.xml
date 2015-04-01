@@ -1,0 +1,18 @@
+<IssueSpecification>
+	<Name>KPN Self Enrol Tempory Document Number</Name>
+	<ShortName>KPN Self Enrol</ShortName>
+	<IssuerID>KPN</IssuerID>
+	<CredentialID>kpnSelfEnrolDocNr</CredentialID>
+	<Description>
+This credentials states that KPN has verified that the subscriber data matches the passport data with the given document number.
+	</Description>
+
+	<Id>400</Id>
+
+	<Attributes>
+		<Attribute>
+			<Name>docNr</Name>
+			<Description>The passport document number</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>

@@ -1,0 +1,9 @@
+<Issuer>
+  <ID>KPN</ID>
+  <Name>Koninklijke KPN N.V</Name>
+  <ContactAddress>Maanplein 55
+2516 CK Den Haag</ContactAddress>
+  <ContactEMail>info@kpn.com</ContactEMail>
+
+  <baseURL>http://www.irmacard.org/credentials/phase1/KPN/</baseURL>
+</Issuer>
