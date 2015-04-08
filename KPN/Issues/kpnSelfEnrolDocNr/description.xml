@@ -1,5 +1,5 @@
 <IssueSpecification>
-	<Name>KPN Self Enrol Tempory Document Number</Name>
+	<Name>KPN Self Enrol Temporary Document Number</Name>
 	<ShortName>KPN Self Enrol</ShortName>
 	<IssuerID>KPN</IssuerID>
 	<CredentialID>kpnSelfEnrolDocNr</CredentialID>
