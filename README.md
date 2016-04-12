@@ -8,6 +8,7 @@ This repository contains all the configuration files for the irma project. It de
 
 The master branch contains only configuration files and dummy puplic keys (from the demo branch). To use irma_configuration in your own project, you want to use the correct set of keys. To this end you should pick one of the following two branches:
 
+ * The latest versions of the [Android app](https://github.com/credentials/irma_android_cardemu) and the [API server](https://github.com/credentials/irma_api_server) use the *combined* branch, which can contain keys for multiple scheme managers. Currently it only contains the demo keys from the demo branch.
  * The *demo* branch contains public and private keys for all the issuers. It is **highly recommended** to use this branch when developing.
  * The *pilot* branch contains the public keys for all the issuers in the pilot. It does **not** contain the private keys. Use this branch when testing issuers (you'll have to add the corresponding private key yourself) and verifiers for the pilot.
 
