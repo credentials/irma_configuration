@@ -1,0 +1,47 @@
+<IssueSpecification version="2">
+	<Name>Driving license</Name>
+	<ShortName>eDL</ShortName>
+	<SchemeManager>irma-demo</SchemeManager>
+	<IssuerID>RU</IssuerID>
+	<CredentialID>drivingLicense</CredentialID>
+	<Description>
+Your driving license data as issued by the government. Verified in-person at the RU.
+	</Description>
+
+	<Id>16</Id>
+
+	<Attributes>
+		<Attribute>
+			<Name>firstNames</Name>
+			<Description>Your given names</Description>
+		</Attribute>
+		<Attribute>
+			<Name>lastName</Name>
+			<Description>Your family names</Description>
+		</Attribute>
+		<Attribute>
+			<Name>birthDate</Name>
+			<Description>Your birthdate</Description>
+		</Attribute>
+		<Attribute>
+			<Name>birthPlace</Name>
+			<Description>Your place of birth</Description>
+		</Attribute>
+		<Attribute>
+			<Name>licensed</Name>
+			<Description>The vehicle categories you are licensed to drive</Description>
+		</Attribute>
+		<Attribute>
+			<Name>country</Name>
+			<Description>The country that issued the driving license</Description>
+		</Attribute>
+		<Attribute>
+			<Name>number</Name>
+			<Description>The document number</Description>
+		</Attribute>
+		<Attribute>
+			<Name>expires</Name>
+			<Description>The expiry date of the document</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>

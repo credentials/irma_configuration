@@ -1,0 +1,35 @@
+<IssueSpecification version="2">
+	<Name>Radboud</Name>
+	<ShortName>RU</ShortName>
+	<SchemeManager>irma-demo</SchemeManager>
+	<IssuerID>RU</IssuerID>
+	<CredentialID>radboud</CredentialID>
+	<Description>
+	 RU campus card, at the Radboud university.
+	</Description>
+
+	<Id>0</Id>
+
+	<Attributes>
+		<Attribute>
+			<Name>firstName</Name>
+			<Description>Your given name </Description>
+		</Attribute>
+		<Attribute>
+			<Name>familyName</Name>
+			<Description>Your family name</Description>
+		</Attribute>
+		<Attribute>
+			<Name>radboudNr</Name>
+			<Description>Your employee number</Description>
+		</Attribute>
+		<Attribute>
+			<Name>eMail</Name>
+			<Description>Your email address</Description>
+		</Attribute>
+		<Attribute>
+			<Name>levelOfVerification</Name>
+			<Description>Describes the level at which these data where verified, e.g. FaceToFace</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>

@@ -1,0 +1,43 @@
+<IssueSpecification version="2">
+	<Name>Passport</Name>
+	<ShortName>Passport</ShortName>
+	<SchemeManager>irma-demo</SchemeManager>
+	<IssuerID>RU</IssuerID>
+	<CredentialID>passport</CredentialID>
+	<Description>
+Your passport data as issued by the government. Verified in-person at the RU.
+	</Description>
+
+	<Id>16</Id>
+
+	<Attributes>
+		<Attribute>
+			<Name>firstNames</Name>
+			<Description>Your given names</Description>
+		</Attribute>
+		<Attribute>
+			<Name>lastName</Name>
+			<Description>Your family names</Description>
+		</Attribute>
+		<Attribute>
+			<Name>birthDate</Name>
+			<Description>Your birthdate</Description>
+		</Attribute>
+		<Attribute>
+			<Name>gender</Name>
+			<Description>Your gender</Description>
+		</Attribute>
+		<Attribute>
+			<Name>nationality</Name>
+			<Description>The nationality of the owner</Description>
+		</Attribute>
+		<Attribute>
+			<Name>number</Name>
+			<Description>The document number</Description>
+		</Attribute>
+		<Attribute>
+			<Name>expires</Name>
+			<Description>The expiry date of the document</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>
