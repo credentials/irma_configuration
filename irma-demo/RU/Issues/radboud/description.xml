@@ -12,23 +12,23 @@
 
 	<Attributes>
 		<Attribute>
-			<Name>firstName</Name>
+			<Name>firstname</Name>
 			<Description>Your given name </Description>
 		</Attribute>
 		<Attribute>
-			<Name>familyName</Name>
+			<Name>familyname</Name>
 			<Description>Your family name</Description>
 		</Attribute>
 		<Attribute>
-			<Name>radboudNr</Name>
+			<Name>radboudnr</Name>
 			<Description>Your employee number</Description>
 		</Attribute>
 		<Attribute>
-			<Name>eMail</Name>
+			<Name>email</Name>
 			<Description>Your email address</Description>
 		</Attribute>
 		<Attribute>
-			<Name>levelOfVerification</Name>
+			<Name>verificationlevel</Name>
 			<Description>Describes the level at which these data where verified, e.g. FaceToFace</Description>
 		</Attribute>
 	</Attributes>

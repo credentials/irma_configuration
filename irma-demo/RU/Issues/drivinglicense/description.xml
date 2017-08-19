@@ -3,7 +3,7 @@
 	<ShortName>eDL</ShortName>
 	<SchemeManager>irma-demo</SchemeManager>
 	<IssuerID>RU</IssuerID>
-	<CredentialID>drivingLicense</CredentialID>
+	<CredentialID>drivinglicense</CredentialID>
 	<Description>
 Your driving license data as issued by the government. Verified in-person at the RU.
 	</Description>
@@ -12,19 +12,19 @@ Your driving license data as issued by the government. Verified in-person at the
 
 	<Attributes>
 		<Attribute>
-			<Name>firstNames</Name>
+			<Name>firstnames</Name>
 			<Description>Your given names</Description>
 		</Attribute>
 		<Attribute>
-			<Name>lastName</Name>
+			<Name>familyname</Name>
 			<Description>Your family names</Description>
 		</Attribute>
 		<Attribute>
-			<Name>birthDate</Name>
+			<Name>dateofbirth</Name>
 			<Description>Your birthdate</Description>
 		</Attribute>
 		<Attribute>
-			<Name>birthPlace</Name>
+			<Name>placeofbirth</Name>
 			<Description>Your place of birth</Description>
 		</Attribute>
 		<Attribute>

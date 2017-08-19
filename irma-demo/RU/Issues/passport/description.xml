@@ -12,15 +12,15 @@ Your passport data as issued by the government. Verified in-person at the RU.
 
 	<Attributes>
 		<Attribute>
-			<Name>firstNames</Name>
+			<Name>firstnames</Name>
 			<Description>Your given names</Description>
 		</Attribute>
 		<Attribute>
-			<Name>lastName</Name>
+			<Name>familyname</Name>
 			<Description>Your family names</Description>
 		</Attribute>
 		<Attribute>
-			<Name>birthDate</Name>
+			<Name>dateofbirth</Name>
 			<Description>Your birthdate</Description>
 		</Attribute>
 		<Attribute>
