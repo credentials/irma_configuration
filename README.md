@@ -1,4 +1,8 @@
-# IRMA Configuration files
+## Deprecation notice
+
+This project is deprecated: the main IRMA software projects (the [IRMA app](https://github.com/credentials/irma_mobile), the [IRMA API server](https://github.com/credentials/irma_api_server) and the [IRMA keyshare server](https://github.com/credentials/irma_keyshare_server)) will not work with any of the branches of this repository. Use this [IRMA demo scheme manager](https://github.com/credentials/irma-demo-schememanager) or [Privacy by Design Foundation scheme manager](https://github.com/credentials/pbdf-schememanager) instead.
+
+# IRMA Configuration
 
 This repository contains all the configuration files for the irma project. It describes the issuers and declares which credentials are issued by these issuers.
 
